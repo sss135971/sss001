@@ -1,2 +1,2 @@
 # sss001
-A warehouse to store my C++ projects on vedio games, the games are easy to make and play
+A warehouse to store my C++ big projects, which is my homework, you can download and refer to them.
